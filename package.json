@@ -1,0 +1,25 @@
+{
+  "name": "eduhub-backend",
+  "version": "1.0.0",
+  "description": "back end for eduhub project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay7254/Eduhub-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pranay7254/Eduhub-Backend/issues"
+  },
+  "homepage": "https://github.com/pranay7254/Eduhub-Backend#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.1.0"
+  }
+}
